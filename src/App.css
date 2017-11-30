@@ -1,0 +1,30 @@
+
+
+body{
+  background-color: #17202A;
+}
+button{
+  background-color: #2E4053;
+  width: 10%;
+  height: auto;
+  font-size: 30px;
+}
+button:hover{
+    background-color:#1B2631  ;
+}
+
+.Display{
+  width: 40%;
+  height: 70px;
+  font-size: 50px;
+  border-radius: 45px;
+  color: #2ECC71;
+  background-color: #F7F9F9  ;
+}
+
+.top{
+  height: 20px;
+}
+h1{
+  font-size: 20px;
+}
